@@ -10,7 +10,8 @@ namespace FunWithCollection
     {
         static void Main(string[] args)
         {
-
+            // Hash Set Enjoy
+            HashSetClass.RunProgram();
         }
     }
 }

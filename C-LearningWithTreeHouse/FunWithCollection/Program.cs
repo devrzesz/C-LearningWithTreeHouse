@@ -11,7 +11,12 @@ namespace FunWithCollection
         static void Main(string[] args)
         {
             // Hash Set Enjoy
-            HashSetClass.RunProgram();
+            // HashSetClass.RunProgram();
+
+            // List enjoy
+            ListClass.RunProgram();
+
         }
+
     }
 }
